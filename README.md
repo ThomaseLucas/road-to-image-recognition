@@ -42,7 +42,7 @@ I wanted to prove that with consistent daily effort (30–60 min/day), it’s po
 
 ## 📅 Progress Log
 
-You can follow my journey on [LinkedIn](https://www.linkedin.com/) where I share weekly updates, lessons learned, and challenges overcome. *(Link your real profile when ready.)*
+You can follow my journey on [LinkedIn](https://www.linkedin.com/in/lucas1602/) where I share weekly updates, lessons learned, and challenges overcome. *(Link your real profile when ready.)*
 
 ---
 
@@ -59,6 +59,6 @@ You can follow my journey on [LinkedIn](https://www.linkedin.com/) where I share
 
 ## 🚀 Want to Join?
 
-Feel free to fork this repo, follow along, or even contribute! Let’s learn together, one neuron at a time.
+Feel free to fork this repo, follow along, or even contribute!
 
 ---
